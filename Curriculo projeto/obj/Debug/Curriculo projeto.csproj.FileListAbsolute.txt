@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\bin\Debug\Curriculo projeto.exe.config
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\bin\Debug\Curriculo projeto.exe
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\bin\Debug\Curriculo projeto.pdb
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\obj\Debug\Curriculo projeto.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\obj\Debug\Curriculo projeto.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\obj\Debug\Curriculo projeto.exe
+C:\Users\Tecnico\source\repos\Curriculo projeto\Curriculo projeto\obj\Debug\Curriculo projeto.pdb
